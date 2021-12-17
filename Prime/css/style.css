@@ -3482,8 +3482,8 @@ Back To Top Section
   .footer .fcopy {
     padding: 15px 0;
     font-size: 14px;
-    border-top: 1px solid #FD4D40;
-    background-color: #0c1a47; }
+    border-top: 1px solid blue;
+    background-color: #28a745; }
 
 .list-info {
   margin: 0;
