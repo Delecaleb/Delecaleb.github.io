@@ -1850,8 +1850,7 @@ TESTIMONIALS
   .rs-feature-box-1 .fa {
     width: 80px;
     height: 80px;
-    color: #ffffff;
-    background-color:#28a745;
+    color: #FBFCC8;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -1869,6 +1868,12 @@ TESTIMONIALS
     background-color: #FD4D40; }
     .rs-feature-box-1.bg-primary .fa {
       background-color: #1379B9; }
+  .rs-feature-box-1.bg-danger .fa{
+    background-color: #dc3545 !important;
+  }
+  .rs-feature-box-1.bg-success .fa{
+    background-color: #28a745 !important;
+  }
     .rs-feature-box-1.bg-primary .btn, .rs-feature-box-1.bg-primary .btn-primary, .rs-feature-box-1.bg-primary .btn-secondary, .rs-feature-box-1.bg-primary .btn-light, .rs-feature-box-1.bg-primary .btn-ghost-light {
       background-color:#0c1a47;  }
   .rs-feature-box-1.bg-secondary {
@@ -2566,7 +2571,7 @@ Back To Top Section
  }
 /* 4.1 - NAVBAR */
 .topbar {
-  background-color: #1379B9 ; 
+  background-color: #28a745;
   color: #FBFCC8;
   font-family: "Open Sans", sans-serif; }
   .topbar .row {
@@ -2591,7 +2596,7 @@ Back To Top Section
     .topbar .sosmed-icon a:hover {
       color: #ffffff; }
   .topbar a {
-    color: #ffffff; }
+    color: #FBFCC8; }
     .topbar a:hover {
       color:#dfdbdb; }
 
