@@ -56,7 +56,8 @@ BUTTON SETTING
   content: '';
   display: block;
   width: 100%;
-  clear: both; }
+  clear: both; 
+}
 .dp{
   width: 300px;
   height: 300px;
@@ -384,7 +385,7 @@ button,
 input,
 select,
 textarea {
-  color: #999999;
+  color: #6b6b6b;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 15px;
